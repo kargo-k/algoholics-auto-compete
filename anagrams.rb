@@ -24,7 +24,7 @@ def anagrams(words, h)
         end
     end
     
-    results.length
+    puts results.length
 end
 
 anagrams(lines, h)
